@@ -1,0 +1,38 @@
+body {
+    background-color: aliceblue;
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    background-color: lightskyblue;
+}
+
+header {
+    padding: 40px;
+    height: 80px;
+    color: white;
+}
+
+nav {
+    padding: 8px 40px;
+    background-color: dodgerblue;
+    color: white;
+}
+
+article {
+    padding: 10px;
+    min-height : 40px;
+}
+
+#slideContainer {
+    width: 80%;
+    margin: 1em auto;
+  }
+
+footer {
+    padding: 40px;
+    height: 40px;
+    background-color : dodgerblue;
+    color: white;
+}
